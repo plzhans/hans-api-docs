@@ -1,0 +1,1 @@
+import{_ as a,o as i,c as n,av as p}from"./chunks/framework.D3fWHw6y.js";const c=JSON.parse('{"title":"hansapi-docs","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),e={name:"README.md"};function t(l,s,h,o,d,k){return i(),n("div",null,[...s[0]||(s[0]=[p("",13)])])}const g=a(e,[["render",t]]);export{c as __pageData,g as default};

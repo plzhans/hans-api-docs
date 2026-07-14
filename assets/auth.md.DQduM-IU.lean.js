@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as t,av as e}from"./chunks/framework.D3fWHw6y.js";const k=JSON.parse('{"title":"인증 (Authentication)","description":"","frontmatter":{},"headers":[],"relativePath":"auth.md","filePath":"auth.md"}'),n={name:"auth.md"};function l(h,a,p,o,r,c){return i(),t("div",null,[...a[0]||(a[0]=[e("",10)])])}const u=s(n,[["render",l]]);export{k as __pageData,u as default};
